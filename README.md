@@ -12,8 +12,8 @@ and recommended by the U.S. National Institute of Standards and
 Technology (NIST) to replace Data Encryption Standard (DES) in 2001.
 
 Advantages of AES:
- Uses the least amount of time to encrypt and decrypt bigger files.
- Uses less memory than most of the other algorithms.
- Exhibits the highest Avalanche effect which means it leads to high diffusion in
+* Uses the least amount of time to encrypt and decrypt bigger files.
+* Uses less memory than most of the other algorithms.
+* Exhibits the highest Avalanche effect which means it leads to high diffusion in
 information.
- Scores a high average entropy per byte of encryption.
+* Scores a high average entropy per byte of encryption.
