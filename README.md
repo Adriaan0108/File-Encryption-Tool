@@ -1,4 +1,4 @@
-# Encryption Tool
+# File Encryption Tool
 ## About This Project:
 An encryption tool that encrypts and decrypts files with a password entered by the user.
 
