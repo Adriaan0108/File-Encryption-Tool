@@ -2,7 +2,7 @@
 ## About This Project:
 An encryption tool that encrypts and decrypts files with a password entered by the user.
 
-# Introduction
+## Introduction
 Cryptography is the study of securing communication. Encryption is the method used
 to conceal messages using algorithms. The main objective of cryptography is to
 protect the confidentiality, integrity, authentication, and non-repudiation of
