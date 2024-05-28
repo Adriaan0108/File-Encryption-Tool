@@ -1,5 +1,8 @@
-# Development
+# File Encryption Tool
+## About This Project:
+An encryption tool that encrypts and decrypts files with a password entered by the user.
 
+## Introduction
 Cryptography is the study of securing communication. Encryption is the method used
 to conceal messages using algorithms. The main objective of cryptography is to
 protect the confidentiality, integrity, authentication, and non-repudiation of
@@ -17,3 +20,12 @@ Advantages of AES:
 * Exhibits the highest Avalanche effect which means it leads to high diffusion in
 information.
 * Scores a high average entropy per byte of encryption.
+
+## Project Documentation:
+https://github.com/Adriaan0108/Encryption-Tool/blob/main/Group%205_Encryption%20Project.pdf
+
+## Languages & Tools:
+- C#
+
+## Contributors:
+- [Armin Pretorius](https://github.com/ArminPretorius)
